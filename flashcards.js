@@ -175,7 +175,7 @@ var clozePrompt = [{
     default: true
 }]
 
-//Prompt to find out if user wants to make more cards (default is yes)
+// prompt to find out if user wants to make more cards (default is yes)
 var makeMore = {
     type: 'confirm',
     name: 'makeMore',
