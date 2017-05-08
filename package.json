@@ -1,0 +1,31 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "flashcard application that allows users to create basic or cloze cards",
+  "main": "flashcards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruno-13/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "flashcards",
+    "cloze",
+    "cards",
+    "basic",
+    "cards",
+    "flashcard",
+    "generator"
+  ],
+  "author": "Bruno Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruno-13/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/Bruno-13/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
